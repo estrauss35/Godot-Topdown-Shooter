@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/warhammer_40k__ultramarines_by_jtpeter_d2fqg0j-fullview.jpg-c0b1c6c14bbc420bead6b164231d8fce.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/warhammer_40k__ultramarines_by_jtpeter_d2fqg0j-fullview.jpg"
+dest_files=[ "res://.import/warhammer_40k__ultramarines_by_jtpeter_d2fqg0j-fullview.jpg-c0b1c6c14bbc420bead6b164231d8fce.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
